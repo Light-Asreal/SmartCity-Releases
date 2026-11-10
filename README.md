@@ -5,11 +5,15 @@
 Smart City combines approachable city-building with a live traffic simulation.
 Build roads and structures, place routes and signals, compare Standard and
 SMART traffic control, and take over a vehicle in Free Drive mode. The current
-public release is [v1.0.3](https://github.com/Light-Asreal/SmartCity-Releases/releases/tag/v1.0.3).
+public release is [v1.0.4](https://github.com/Light-Asreal/SmartCity-Releases/releases/tag/v1.0.4).
+
+v1.0.4 introduces a unified modern interface, a visual building catalogue with
+model previews and category filters, animated feedback, UI and building sounds,
+and saved volume controls. Click a catalogue card or use Q/E to choose a block.
 
 ## Download and install
 
-Windows users should download the [Smart City v1.0.3 downloader](https://github.com/Light-Asreal/SmartCity-Releases/releases/download/v1.0.3/SmartCity-v1.0.3-Downloader.exe), choose an installation folder, and let it verify the game archive before launching `SmartCity.exe`. Godot and VS Code are not required. The base game works without the optional AI package.
+Windows users should download the [Smart City v1.0.4 downloader](https://github.com/Light-Asreal/SmartCity-Releases/releases/download/v1.0.4/SmartCity-v1.0.4-Downloader.exe), choose an installation folder, and let it verify the game archive before launching `SmartCity.exe`. Godot and VS Code are not required. The base game works without the optional AI package.
 
 The optional Qwen2.5 local assistant downloads separately and runs through
 `llama-server.exe` on this PC. It needs about 1.15 GB of additional storage and
